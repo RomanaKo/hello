@@ -6,3 +6,5 @@ def main():
 	
 if _main_ :
 	hello()
+	
+print('change')
