@@ -1,3 +1,8 @@
+
+def ahoj():
+	print('Ahoj')
+
+
 def hello():
 	print('Hello')
 	
