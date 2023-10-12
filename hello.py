@@ -4,7 +4,7 @@ def french():
 	print('Bon Jour Madame ')
 
 def ahoj():
-	print('Ahojte')
+	print('Ahojte Vsetci')
 
 def hello():
 	print('Hello Everyone')
