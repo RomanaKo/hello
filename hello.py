@@ -1,13 +1,13 @@
 import sys
 
 def french():
-	print('Bon Jour')
+	print('Bon Jour Madame ')
 
 def ahoj():
-	print('Ahoj')
+	print('Ahojte')
 
 def hello():
-	print('Hello')
+	print('Hello Everyone')
 	
 def main():
 	if sys.argv[1] == "fr":
